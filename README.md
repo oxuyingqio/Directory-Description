@@ -7,6 +7,9 @@ security
 socket
 	Java Socket---------------------util
 	
+netty
+	Netty---------------------------util
+	
 web
 	Java Web
 	
@@ -15,7 +18,7 @@ web-util
 	
 web-js
 	Java Web Js---------------------web-util
-	
+
 web-js-html-component
 	Java Web Js Ò³Ãæ ×é¼þ--------------web-js
 	
