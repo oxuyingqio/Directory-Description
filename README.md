@@ -25,6 +25,3 @@ web-js-html-component
 web-js-html-easyui
 	Java Web Js Ò³Ãæ EasyUI¿ò¼Ü--------web-js
 	
-web-js-project
-	Java Web Js ÏîÄ¿-----------------web-js-html-component,web-js-html-easyui
-	
