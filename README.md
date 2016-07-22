@@ -8,7 +8,7 @@ socket
 	Java Socket---------------------util
 	
 netty
-	Netty---------------------------util
+	Netty---------------------------socket
 	
 web
 	Java Web
