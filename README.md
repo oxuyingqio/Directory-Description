@@ -1,11 +1,11 @@
 util
-	Java 公有工具
-1
+	Java 鍏湁宸ュ叿
+
 net
-	Java 网络--------------------------------util
+	Java 缃戠粶--------------------------------util
 
 security
-	Java 安全--------------------------------util
+	Java 瀹夊叏--------------------------------util
 	
 socket
 	Java Socket-----------------------------net
@@ -17,16 +17,16 @@ web
 	Java Web
 	
 web-util
-	Java Web 公有工具-------------------------util
+	Java Web 鍏湁宸ュ叿-------------------------util
 	
 web-js
 	Java Web JavaScript---------------------web-util
 
 web-js-html-component
-	Java Web JavaScript 页面 组件--------------web-js
+	Java Web JavaScript 椤甸潰 缁勪欢--------------web-js
 	
 web-js-html-easyui
-	Java Web JavaScript 页面 EasyUI框架--------web-js
+	Java Web JavaScript 椤甸潰 EasyUI妗嗘灦--------web-js
 
 	
 	
