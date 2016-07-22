@@ -1,14 +1,17 @@
 util
 	Java 公有工具
-	
+
+net
+	Java 网络
+
 security
 	Java Security-------------------util
 	
 socket
-	Java Socket---------------------util
+	Java Socket---------------------util,net
 	
 netty
-	Netty---------------------------socket
+	Netty---------------------------util,net
 	
 web
 	Java Web
