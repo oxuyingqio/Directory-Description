@@ -2,29 +2,37 @@ util
 	Java 公有工具
 
 net
-	Java 网络------------------------util
+	Java 网络--------------------------------util
 
 security
-	Java Security-------------------util
+	Java 安全--------------------------------util
 	
 socket
-	Java Socket---------------------net
+	Java Socket-----------------------------net
 	
 netty
-	Netty---------------------------net
+	Java Netty------------------------------net
 	
 web
 	Java Web
 	
 web-util
-	Java Web 公有工具-----------------util
+	Java Web 公有工具-------------------------util
 	
 web-js
-	Java Web Js---------------------web-util
+	Java Web JavaScript---------------------web-util
 
 web-js-html-component
-	Java Web Js 页面 组件--------------web-js
+	Java Web JavaScript 页面 组件--------------web-js
 	
 web-js-html-easyui
-	Java Web Js 页面 EasyUI框架--------web-js
+	Java Web JavaScript 页面 EasyUI框架--------web-js
+
+	
+	
+	
+	
+	
+	
+	
 	
