@@ -1,32 +1,22 @@
-util
-	Java 公有工具
+util-----------------------------Java 公有工具
 
-net
-	Java 网络--------------------------------util
+security-------------------------Java 安全
 
-security
-	Java 安全--------------------------------util
+net------------------------------Java 网络
 	
-socket
-	Java Socket-----------------------------net
+socket---------------------------Java Socket
 	
-netty
-	Java Netty------------------------------net
+netty----------------------------Java Netty
 	
-web
-	Java Web
+web------------------------------Java Web
 	
-web-util
-	Java Web 公有工具-------------------------util
+web-util-------------------------Java Web 公有工具
 	
-web-js
-	Java Web JavaScript---------------------web-util
+web-js---------------------------Java Web JavaScript
 
-web-js-html-component
-	Java Web JavaScript 页面 组件--------------web-js
+web-js-html-component------------Java Web JavaScript 页面 组件
 	
-web-js-html-easyui
-	Java Web JavaScript 页面 EasyUI框架--------web-js
+web-js-html-easyui---------------Java Web JavaScript 页面 EasyUI框架
 
 	
 	
